@@ -1,0 +1,14 @@
+.navbar {
+    width: 30%;
+    color: red;
+    height: 800px;
+
+}
+.navbar a {
+    text-decoration: none;
+    color: red;
+}
+.navbar li {
+    padding-top: 60px;
+    list-style-type: none;
+}
